@@ -1,0 +1,6 @@
+{
+  "name": "Presupuestos Aire Acondicionado",
+  "description": "Aplicación para instaladores y técnicos de aire acondicionado que permite calcular presupuestos de revisión, limpieza, instalación y reparación de averías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
